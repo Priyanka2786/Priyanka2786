@@ -15,6 +15,10 @@
 ## Connect with me:
 
 <p align="left">
+   <a href="https://www.linkedin.com/in/priyanka-prajapat-358a6b287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;
   <!-- Instagram -->
   <a href="https://www.instagram.com/embient_vission_1?igsh=MTQwcXRxNHJscWJtaQ==">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40" alt="Instagram"/>
