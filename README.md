@@ -1,3 +1,5 @@
+# Hi 👋, I'm Priyanka Prajapat
+
 - 👋 Hi, I’m @Priyanka2786
 - 👀 I’m interested in data analysis, business intelligence, and data visualization.
 - 🌱 I’m currently SQL, Python, Power BI, and machine learning techniques.
